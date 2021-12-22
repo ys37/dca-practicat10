@@ -32,4 +32,10 @@ Alias en global:
 - Arreglamos el error
 
 4. 
+Ejecutamos:
+* ls -a
+* cd .git/hooks
+* touch post-commit
+* nano post-commit --> después de hacer commit, que se haga un push automático
+* chmod +x post-commit --> damos privilegios
 
