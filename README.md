@@ -17,3 +17,9 @@ Alias en global:
 * git config --global alias.ch checkout
 * git config --global alias.ps push
 * git config --global alias.pl pull
+
+3. 
+Provocamos un fallo en el archivo: ~/dca-practicat10/proyecto/src/main/resources/templates/saludo.html
+
+
+
