@@ -46,4 +46,11 @@ Alias en global:
 * nano post-push
 * chmod +x post-push --> damos privilegios
 
+- Ejecutamos para el tercer hook (antes de hacer commit, que salga un mensaje por pantalla):
+* ls -a
+* cd .git/hooks
+* touch pre-commit
+* nano pre-commit
+* chmod +x pre-commit --> damos privilegios
+
 
