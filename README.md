@@ -5,11 +5,15 @@
 
 2. 
 - Alias en local:
-git config alias.stat status
-git config alias.com commit
-git config alias.ch checkout
-git config alias.ps push
-git config alias.pl pull
+* git config alias.stat status
+* git config alias.com commit
+* git config alias.ch checkout
+* git config alias.ps push
+* git config alias.pl pull
 
 - Alias en global:
-
+* git config --global alias.stat status
+* git config --global alias.com commit
+* git config --global alias.ch checkout
+* git config --global alias.ps push
+* git config --global alias.pl pull
