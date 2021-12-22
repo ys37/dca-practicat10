@@ -32,10 +32,18 @@ Alias en global:
 - Arreglamos el error
 
 4. 
-Ejecutamos:
+- Ejecutamos para el primer hook (después de hacer commit, que se haga un push automático):
 * ls -a
 * cd .git/hooks
 * touch post-commit
-* nano post-commit --> después de hacer commit, que se haga un push automático
+* nano post-commit
 * chmod +x post-commit --> damos privilegios
+
+- Ejecutamos para el segundo hook (después de hacer push, que se haga un pull automático):
+* ls -a
+* cd .git/hooks
+* touch post-push
+* nano post-push
+* chmod +x post-push --> damos privilegios
+
 
