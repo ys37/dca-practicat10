@@ -32,7 +32,3 @@ Alias en global:
 - Arreglamos el error
 
 4. 
-
-
-
-
