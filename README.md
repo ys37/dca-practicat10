@@ -20,6 +20,7 @@ Alias en global:
 
 3. 
 Provocamos un fallo en el archivo: ~/dca-practicat10/proyecto/src/main/resources/templates/saludo.html
+Añadimos 3 archivos nuevos
 
 
 
